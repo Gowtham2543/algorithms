@@ -1,5 +1,5 @@
 # algorithms/bubble_sort/sort.py
-from algorithms.bubble_sort.utils import swap
+from algorithms.sorting.bubble_sort.util import swap
 
 def bubble_sort(arr):
     n = len(arr)

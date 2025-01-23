@@ -1,5 +1,5 @@
 # algorithms/merge_sort/tests/util.py
-from algorithms.merge_sort.utils import merge
+from algorithms.sorting.merge_sort.util import merge
 
 def test_merge():
     arr = [0] * 6

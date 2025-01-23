@@ -1,5 +1,5 @@
 # algorithms/quick_sort/tests/util.py
-from algorithms.quick_sort.utils import partition
+from algorithms.sorting.quick_sort.util import partition
 
 def test_partition():
     arr = [5, 3, 8, 6, 2, 7, 4, 1]
