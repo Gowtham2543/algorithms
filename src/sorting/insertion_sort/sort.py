@@ -1,5 +1,5 @@
 # algorithms/insertion_sort/sort.py
-from algorithms.sorting.insertion_sort.util import shift_right
+from sorting.insertion_sort.util import shift_right
 
 def insertion_sort(arr):
     for i in range(1, len(arr)):

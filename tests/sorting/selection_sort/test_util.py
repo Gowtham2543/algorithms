@@ -1,5 +1,5 @@
 # algorithms/selection_sort/tests/util.py
-from algorithms.sorting.selection_sort.util import find_min_index, swap
+from sorting.selection_sort.util import find_min_index, swap
 
 def test_find_min_index():
     arr = [64, 25, 12, 22, 11, 90]

@@ -1,5 +1,5 @@
 # algorithms/merge_sort/sort.py
-from algorithms.sorting.merge_sort.util import merge
+from sorting.merge_sort.util import merge
 
 def merge_sort(arr):
     if len(arr) > 1:

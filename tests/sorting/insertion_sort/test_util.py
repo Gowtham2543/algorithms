@@ -1,5 +1,5 @@
 # algorithms/insertion_sort/tests/util.py
-from algorithms.sorting.insertion_sort.util import shift_right
+from sorting.insertion_sort.util import shift_right
 
 def test_shift_right():
     arr = [4, 3, 2, 1]

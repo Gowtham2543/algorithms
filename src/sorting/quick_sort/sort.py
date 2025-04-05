@@ -1,5 +1,5 @@
 # algorithms/quick_sort/sort.py
-from algorithms.sorting.quick_sort.util import partition
+from sorting.quick_sort.util import partition
 
 def quick_sort(arr):
     if len(arr) <= 1:

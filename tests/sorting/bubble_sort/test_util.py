@@ -1,5 +1,5 @@
 # algorithms/bubble_sort/tests/util.py
-from algorithms.sorting.bubble_sort.util import swap
+from sorting.bubble_sort.util import swap
 
 def test_swap():
     arr = [1, 2, 3]

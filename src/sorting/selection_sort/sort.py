@@ -1,5 +1,5 @@
 # algorithms/selection_sort/sort.py
-from algorithms.sorting.selection_sort.util import find_min_index, swap
+from sorting.selection_sort.util import find_min_index, swap
 
 def selection_sort(arr):
     for i in range(len(arr)):
